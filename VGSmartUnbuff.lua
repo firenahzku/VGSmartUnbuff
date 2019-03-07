@@ -168,6 +168,9 @@ VGSmartUnbuff_PriorityList = {
 	["Haste"] = {
 		["Interface\\Icons\\Spell_Nature_Invisibilty"] = 63,
 	},
+	["Untamed Fury"] = {
+		["Interface\\Icons\\Spell_Nature_BloodLust"] = 63.5,
+	},
 	["Berserking"] = {
 		["Interface\\Icons\\Racial_Troll_Berserk"] = 64,
 	},
