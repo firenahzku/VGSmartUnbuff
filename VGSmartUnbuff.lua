@@ -155,6 +155,9 @@ VGSmartUnbuff_PriorityList = {
 	["Shadow Protection"] = {
 		["Interface\\Icons\\Spell_Shadow_RagingScream"] = 58,
 	},
+	["The Power of Friendship"] = {
+		["Interface\\Icons\\INV_Jewelry_Ring_03"] = 59,
+	},
 	-- High-threat temporary buffs
 	["Enrage"] = {
 		["Interface\\Icons\\Spell_Shadow_UnholyFrenzy"] = 60,
@@ -231,8 +234,14 @@ VGSmartUnbuff_PriorityList = {
 	["Rage of Ages"] = {
 		["Interface\\Icons\\Spell_Nature_Strength"] = 92,
 	},
+	["Orgrimmar Gift of Friendship"] = {
+		["Interface\\Icons\\INV_Misc_Gift_01"] = 92.5,
+	},
 	["Strike of the Scorpok"] = {
 		["Interface\\Icons\\Spell_Nature_ForceOfNature"] = 93,
+	},
+	["Thunder Bluff Gift of Friendship"] = {
+		["Interface\\Icons\\INV_Misc_Gift_05"] = 93.5,
 	},
 	["Spirit of Boar"] = {
 		["Interface\\Icons\\Spell_Nature_Purge"] = 94,
