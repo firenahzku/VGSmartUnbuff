@@ -69,8 +69,11 @@ VGSmartUnbuff_PriorityList = {
         ["Interface\\Icons\\Spell_Nature_Strength"] = 23.5,
     },
     ["Elune's Blessing"] = {
-        ["Interface\\Icons\\INV_Misc_Gem_Pearl_02"] = 23.6,
-    },
+		["Interface\\Icons\\INV_Misc_Gem_Pearl_02"] = 23.6,
+	},
+	["Traces of Silithyst"] = {
+		["Interface\\Icons\\Spell_Nature_TimeStop"] = 23.7,
+	},
 	["Songflower Serenade"] = {
 		["Interface\\Icons\\Spell_Holy_MindVision"] = 24,
 	},
@@ -248,6 +251,12 @@ VGSmartUnbuff_PriorityList = {
 	},
 	["Battle Squawk"] = {
 		["Interface\\Icons\\INV_Misc_Birdbeck_01"] = 99,
+	},
+	["Dark Desire"] = {
+		["Interface\\Icons\\INV_ValentinesChocolate04"] = 99.5,
+	},
+	["Buttermilk Delight"] = {
+		["Interface\\Icons\\INV_ValentinesChocolate01"] = 99.6,
 	},
 	["Juju Power"] = {
 		["Interface\\Icons\\INV_Misc_MonsterScales_11"] = 100,
