@@ -1,0 +1,5 @@
+## Title: VGSmartUnbuff
+## Author: Threewords <Vanguard>, Kronos, Twinstar
+## Version: 1.0
+## SavedVariables: 
+VGSmartUnbuff.lua
