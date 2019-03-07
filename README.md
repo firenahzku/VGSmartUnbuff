@@ -9,3 +9,4 @@ This addon removes the lowest-priority buff every time when the number of buffs 
 * Current settings are tanking oriented.
 * To change them, open the addon's `lua` file, and edit the contents of `VGSmartUnbuff_PriorityList` array.
 * The lower the number next to a buff texture name is, the higher priority it has and the lower the chance that it will get removed.
+* If a buff isn't listed, you have to add it to the array, following the same format that other buffs have. You can use any number as the priority (can be decimal).
